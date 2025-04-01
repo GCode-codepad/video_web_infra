@@ -6,7 +6,8 @@
   "scripts": {
     "build": "npm install",
     "clean": "rm -rf node_modules target",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": ""
   },
   "keywords": [],
   "author": "",
